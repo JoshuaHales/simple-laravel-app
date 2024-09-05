@@ -23,7 +23,7 @@ This Laravel application demonstrates how to integrate a custom PHP package for 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/simple-laravel-app.git
+git clone https://github.com/JoshuaHales/simple-laravel-app.git
 cd simple-laravel-app
 ```
 
